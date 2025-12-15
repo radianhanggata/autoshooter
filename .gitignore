@@ -1,0 +1,40 @@
+# NetBeans specific files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+nbactions.xml
+nb-configuration.xml
+*.orig
+
+# Maven build artifacts
+target/
+pom.xml.tag
+pom.xml.next
+pom.xml.bak
+pom.xml.versions
+pom.xml.snapshots
+dependency-reduced-pom.xml
+build/ # Used by some Maven plugins and NetBeans
+
+# Java class files and archives
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
+
+# Other common OS/IDE files
+.DS_Store # Mac OS
+*~ # Vim temporary files
+.idea/ # IntelliJ IDEA (if applicable)
+.classpath # Eclipse (if applicable)
+.project # Eclipse (if applicable)
+.settings/ # Eclipse (if applicable)
+
+# Exclude the wrapper files themselves, but not the wrapper directory (if used)
+# !.mvn/wrapper/maven-wrapper.jar
+
