@@ -1,0 +1,17 @@
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\App.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\controller\BulletController.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\controller\CollisionController.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\controller\EntityController.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\controller\GunController.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\core\Aim.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\error\GunException.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\model\BulletModel.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\model\EntityModel.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\model\GunModel.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\model\GunSpec.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\model\GunState.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\Sound.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\SysProp.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\view\BulletView.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\view\EntityView.java
+D:\Repositories\autoshooter\src\main\java\id\rmah\autoshooter\view\GunView.java
